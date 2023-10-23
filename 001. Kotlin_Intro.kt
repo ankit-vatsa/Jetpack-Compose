@@ -15,8 +15,8 @@ if () {
 }
 
 When () {
-  condition1 -> body1
-  condition2 -> body2
+  condition1,2 -> body1
+  condition3 -> body2
 }
 
 Nullable Variables Definition

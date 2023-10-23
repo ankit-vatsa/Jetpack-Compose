@@ -8,7 +8,9 @@
 Conditional Statements
 if () {
   //body
-} else {
+} else if{
+  
+}else {
   
 }
 
